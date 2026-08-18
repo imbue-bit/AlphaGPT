@@ -18,4 +18,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=imbue-bit/AlphaGPT&type=date&legend=top-left)](https://www.star-history.com/#imbue-bit/AlphaGPT&type=date&legend=top-left)
+[![Star History Chart](https://star-history.dera.page/svg?repos=imbue-bit/AlphaGPT&type=date&legend=top-left)](https://star-history.dera.page/#imbue-bit/AlphaGPT&type=date&legend=top-left)
